@@ -2,7 +2,7 @@ SDL2
 atom
 bashtop
 brave
-chrome
+google-chrome-stable
 discord
 postman-64-bit
 skype
