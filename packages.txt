@@ -1,0 +1,10 @@
+SDL2
+atom
+bashtop
+brave
+chrome
+discord
+postman-64-bit
+skype
+spotify
+visual-studio-code
