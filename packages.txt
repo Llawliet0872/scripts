@@ -9,3 +9,4 @@ skype
 spotify
 visual-studio-code
 microsoft-teams
+notepad++(WINE)
