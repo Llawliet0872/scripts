@@ -1,0 +1,17 @@
+atom
+alacritty
+eclipse
+miniconda
+notepad++(WINE)
+postman-64-bit
+sublime-text-3
+visual-studio-code
+brave
+google-chrome-stable
+bashtop
+SDL2
+spotify
+discord
+skype
+microsoft-teams
+
