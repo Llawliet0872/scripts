@@ -1,5 +1,3 @@
-echo Fetching Package...
-wget -O discord.deb "https://discordapp.com/api/download?platform=linux&format=deb" -q
-echo Building Package...
-sudo dpkg -i discord.deb &> /dev/null
-rm discord.deb &> /dev/null
+wget -O discord.deb "https://discordapp.com/api/download?platform=linux&format=deb" 
+sudo dpkg -i discord.deb 
+rm discord.deb 

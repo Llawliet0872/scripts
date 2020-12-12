@@ -1,8 +1,5 @@
-echo Fetching Package...
-wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz -q
-echo Building Package...
-sudo tar -xzf postman.tar.gz -C /opt &> /dev/null
+wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz
+sudo tar -xzf postman.tar.gz -C /opt 
 rm postman.tar.gz 
 sudo ln -s /opt/Postman/Postman /usr/bin/postmansudo echo "[Desktop Entry]<br>Encoding=UTF-8<br>Name=Postman<br>Exec=/opt/Postman/app/Postman %U<br>Icon=/opt/Postman/app/resources/app/assets/icon.png<br>Terminal=false<br>Type=Application<br>Categories=Development;" >~/.local/share/applications/Postman.desktop
-echo Cleaning...
 rm -rf Postman

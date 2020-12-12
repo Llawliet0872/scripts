@@ -1,5 +1,3 @@
-echo Fetching Package...
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb -q
-echo Building Package...
-sudo dpkg -i ./google-chrome-stable_current_amd64.deb &> /dev/null
-rm google-chrome-stable_current_amd64.deb &> /dev/null
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb 
+sudo dpkg -i ./google-chrome-stable_current_amd64.deb 
+rm google-chrome-stable_current_amd64.deb
