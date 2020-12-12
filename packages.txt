@@ -15,4 +15,6 @@ discord
 skype
 microsoft-teams
 hyper
-matcha-themese
+matcha-themes
+papirus-icons-gtk
+papirus-icons-kde
