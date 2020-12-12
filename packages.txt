@@ -12,3 +12,4 @@ microsoft-teams
 notepad++(WINE)
 sublime-text-3
 alacritty
+miniconda
