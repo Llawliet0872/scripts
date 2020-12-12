@@ -1,3 +1,3 @@
-curl https://atom.io/download/deb --output atom.deb
+wget https://atom.io/download/deb
 sudo dpkg -i deb
 rm deb
