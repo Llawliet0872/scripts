@@ -1,3 +1,5 @@
-wget https://atom.io/download/deb
-sudo dpkg -i deb
-rm deb
+echo Fetching Package...
+wget https://atom.io/download/deb -q
+echo Building Package...
+sudo dpkg -i deb &> /dev/null
+rm deb &> /dev/null

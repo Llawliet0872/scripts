@@ -1,7 +1,11 @@
-wget http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/oomph/epp/2020-06/R/eclipse-inst-linux64.tar.gz
-tar -xf eclipse-inst-linux64.tar.gz
+echo Fetching Package...
+wget http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/oomph/epp/2020-06/R/eclipse-inst-linux64.tar.gz -q 
+echo Extracting Package...
+tar -xf eclipse-inst-linux64.tar.gz &> /dev/null
 cd eclipse-installer/
-sudo ./eclipse-inst
+echo Running installer...
+sudo ./eclipse-inst &> /dev/null 
 cd ..
-rm -rf eclipse-installer/
-rm eclipse-inst-linux64.tar.gz
+echo Cleaning...
+rm -rf eclipse-installer/ &> /dev/null
+rm eclipse-inst-linux64.tar.gz &> /dev/null
