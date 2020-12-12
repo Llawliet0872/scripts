@@ -11,4 +11,3 @@ visual-studio-code
 microsoft-teams
 notepad++(WINE)
 sublime-text-3
-pycharm-community
