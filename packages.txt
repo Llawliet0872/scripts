@@ -15,4 +15,4 @@ discord
 skype
 microsoft-teams
 hyper
-matcha-theme
+matcha-themese
