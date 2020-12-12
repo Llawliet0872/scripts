@@ -5,3 +5,5 @@ cd matcha
 ./install.sh
 cd ..
 rm -rf matcha
+echo -------------------------
+echo Ignore The Errors!
