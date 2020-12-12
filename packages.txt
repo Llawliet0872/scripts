@@ -14,3 +14,4 @@ spotify
 discord
 skype
 microsoft-teams
+hyper
