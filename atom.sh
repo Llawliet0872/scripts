@@ -1,2 +1,2 @@
 wget https://atom.io/download/deb
-sudo dkpg -i atom.deb
+sudo dpkg -i atom.deb
