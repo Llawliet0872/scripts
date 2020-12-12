@@ -14,4 +14,3 @@ spotify
 discord
 skype
 microsoft-teams
-cool-retro-term
