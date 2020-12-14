@@ -3,7 +3,7 @@ alacritty - Alacritty fastest terminal emulator in existence and it is GPU accel
 eclipse - Eclipse is an integrated development environment used in computer programming
 miniconda - The lightweight CLI version of Anaconda
 notepad++(WINE) - notepad++ using WINE
-postman-64-bit - Simplify each step of building an API and streamline collaboration so you can create better APIs—faster.
+postman - Simplify each step of building an API and streamline collaboration so you can create better APIs—faster.
 sublime-text-3 - Sublime Text is a sophisticated text editor for code, markup and prose
 visual-studio-code - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications
 brave - The Brave browser is a fast, private and secure web browser for PC, Mac and mobile
