@@ -21,4 +21,3 @@ papirus-icons-kde - Papirus is a free and open source SVG icon theme for Linux
 processing3 - Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts
 elementary-tweaks - Enabling more customization for you elementary install
 espanso - An Open Source, Cross-platform Text Expander written in Rust.
-brackets - Brackets is a lightweight, yet powerful, modern text editor
