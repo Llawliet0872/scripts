@@ -3,9 +3,10 @@ wget https://launchpad.net/ubuntu/+archive/primary/+files/libgcrypt11_1.5.3-2ubu
 sudo dpkg -i libgcrypt11_1.5.3-2ubuntu4.2_amd64.deb
 rm libgcrypt11_1.5.3-2ubuntu4.2_amd64.deb
 sudo apt install libcurl3
-sudo apt install libpango1.0-dev
+sudo apt install libpango1.0-0
 echo Done!
 echo Installing brackets
 wget wget https://github.com/adobe/brackets/releases/download/release-1.11/Brackets.Release.1.11.64-bit.deb -O brackets
 sudo dpkg -i brackets
 rm brackets
+sudo apt install curl
