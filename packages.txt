@@ -18,3 +18,4 @@ hyper
 matcha-themes
 papirus-icons-gtk
 papirus-icons-kde
+processing3
