@@ -19,3 +19,4 @@ matcha-themes
 papirus-icons-gtk
 papirus-icons-kde
 processing3
+elementary-tweaks
