@@ -6,7 +6,6 @@ meson build --prefix=/usr
 cd build 
 ninja 
 sudo ninja install
-io.elementary.switchboard
 cd ..
 cd ..
 rm -rf elementary-tweaks
