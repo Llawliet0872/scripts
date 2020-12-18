@@ -1,3 +1,3 @@
-wget https://github.com/brave/brave-browser/releases/download/v1.18.74/brave-browser_1.18.74_amd64.deb
+wget https://github.com/brave/brave-browser/releases/download/v1.19.64/brave-browser-dev_1.19.64_amd64.deb -O brave
 sudo dpkg -i brave
 rm brave
