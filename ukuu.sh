@@ -4,3 +4,5 @@ git clone https://github.com/teejee2008/ukuu.git
 cd ukuu
 make all
 sudo make install
+cd ..
+rm -rf ukuu
