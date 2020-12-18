@@ -22,3 +22,4 @@ processing3 - Processing is a flexible software sketchbook and a language for le
 elementary-tweaks - Enabling more customization for you elementary install
 espanso - An Open Source, Cross-platform Text Expander written in Rust.
 ukuu - Ubuntu Kernel Update Utility
+parsec - Parsec connects millions of people to their work, games, and friends from anywhere, across any device in silky smooth, ultra high definition interactive video.
