@@ -1,3 +1,5 @@
-wget https://github.com/brave/brave-browser/releases/download/v1.19.64/brave-browser_1.19.64_amd64.deb -O brave
-sudo dpkg -i brave
-rm brave
+sudo apt install apt-transport-https curl gnupg
+curl -s https://brave-browser-apt-release.s3.brave.com/brave-core.asc | sudo apt-key --keyring /etc/apt/trusted.gpg.d/brave-browser-release.gpg add -
+echo "deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main" | sudo tee /etc/apt/sources.list.d/brave-browser-release.list
+sudo apt update
+sudo apt install brave-browser
