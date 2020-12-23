@@ -24,6 +24,7 @@ espanso - An Open Source, Cross-platform Text Expander written in Rust.
 ukuu - Ubuntu Kernel Update Utility
 parsec - Parsec connects millions of people to their work, games, and friends from anywhere, across any device in silky smooth, ultra high definition interactive video.
 ulauncher - An application launcher for linux
+etcher - Etcher is a powerful OS image flasher built with web technologies
 ********************************
-There are currently 26 packages
+There are currently 27 packages
 ********************************
