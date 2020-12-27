@@ -27,5 +27,5 @@ ulauncher - An application launcher for linux
 etcher - Etcher is a powerful OS image flasher built with web technologies
 micro - Micro is a terminal-based text editor that aims to be easy to use.
 ********************************
-There are currently 28 packages
+There are 28 packages
 ********************************
