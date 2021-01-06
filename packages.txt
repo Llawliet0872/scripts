@@ -21,12 +21,11 @@ papirus-icons-kde - Papirus is a free and open source SVG icon theme for Linux
 processing3 - Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts
 elementary-tweaks - Enabling more customization for you elementary install
 espanso - An Open Source, Cross-platform Text Expander written in Rust.
-ukuu - Ubuntu Kernel Update Utility
 parsec - Parsec connects millions of people to their work, games, and friends from anywhere, across any device in silky smooth, ultra high definition interactive video.
 ulauncher - An application launcher for linux
 etcher - Etcher is a powerful OS image flasher built with web technologies
 micro - Micro is a terminal-based text editor that aims to be easy to use.
 medit - Lightweight, themeable text editor with syntax highlighting.
 ********************************
-There are 29 packages.
+There are 28 packages.
 ********************************
