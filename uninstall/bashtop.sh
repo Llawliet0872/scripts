@@ -1,3 +1,3 @@
 cd ~/.bashtop/
 sudo make uninstall
-cd ~
+rm -rf ~/.bashtop
