@@ -5,5 +5,3 @@ cd Matcha-gtk-theme
 ./install.sh
 cd ..
 rm -rf Matcha-gtk-theme
-echo -------------------------
-echo Ignore The Errors!
