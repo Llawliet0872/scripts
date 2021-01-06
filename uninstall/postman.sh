@@ -1,1 +1,1 @@
-sudo rm -rf ~/.local/share/applications/Postman.desktop /usr/bin/postman /opt/Postman/Postman
+sudo rm -rf ~/Postman ~/.local/share/applications/Postman.desktop /usr/bin/postman /opt/Postman/
