@@ -26,6 +26,7 @@ parsec - Parsec connects millions of people to their work, games, and friends fr
 ulauncher - An application launcher for linux
 etcher - Etcher is a powerful OS image flasher built with web technologies
 micro - Micro is a terminal-based text editor that aims to be easy to use.
+medit - Lightweight, themeable text editor with syntax highlighting.
 ********************************
-There are 28 packages
+There are 29 packages.
 ********************************
