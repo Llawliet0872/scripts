@@ -1,0 +1,1 @@
+rm -rf ~/.themes/Matcha-aliz  ~/.themes/Matcha-azul ~/.themes/Matcha-dark-aliz ~/.themes/Matcha-dark-azul ~/.themes/Matcha-dark-sea ~/.themes/Matcha-light-aliz ~/.themes/Matcha-light-azul ~/.themes/Matcha-light-sea ~/.themes/Matcha-sea
