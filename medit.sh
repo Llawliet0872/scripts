@@ -10,7 +10,7 @@ cd /tmp
 tar -xjf /tmp/${FILE_NAME}.${APP_EXT}
 cd /tmp/${FILE_NAME}
 echo Building and installing application...
-./configure --quiet && make -j8 > /dev/null 2>&1 && sudo make install
+./configure --quiet && make -j$(nproc) > /dev/null 2>&1 && sudo make install
 cd $HOME
 rm -rf /tmp/${APP_NAME,,}
 echo Application installation complete!
