@@ -9,7 +9,6 @@ visual-studio-code - Visual Studio Code is a code editor redefined and optimized
 brave - The Brave browser is a fast, private and secure web browser for PC, Mac and mobile
 google-chrome-stable - Google Chrome is a fast, easy to use, and secure browser
 bashtop - Bashtop is a terminal-based resource monitoring utility in Linux. It's a nifty command-line tool that intuitively displays statistics for your CPU
-SDL2 - The SDL library for c++
 spotify - Spotify is a digital music service that gives you access to millions of songs.
 discord - Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with your friends and communities
 skype - Stay in touch! Free online calls, messaging, affordable international calling to mobiles or landlines and instant online meetings on Skype
@@ -27,5 +26,5 @@ etcher - Etcher is a powerful OS image flasher built with web technologies
 micro - Micro is a terminal-based text editor that aims to be easy to use.
 medit - Lightweight, themeable text editor with syntax highlighting.
 ********************************
-There are 28 packages.
+There are 27 packages.
 ********************************
