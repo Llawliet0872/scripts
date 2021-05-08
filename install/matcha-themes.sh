@@ -1,5 +1,6 @@
+#!/bin/bash
 echo Installing Dependencies
-sudo apt-get install gtk2-engines-murrine gtk2-engines-pixbuf git
+sudo apt-get install gtk2-engines-murrine gtk2-engines-pixbuf git -y
 git clone https://github.com/vinceliuice/Matcha-gtk-theme.git
 cd Matcha-gtk-theme
 ./install.sh

@@ -1,5 +1,6 @@
+#!/bin/bash
 echo Installing dependencies...
-sudo apt install make
+sudo apt install make -y
 git clone https://github.com/aristocratos/bashtop.git
 cd bashtop
 sudo make install
